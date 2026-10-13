@@ -1,0 +1,4 @@
+python-telegram-bot
+ollama
+pymupdf
+python-dotenv
